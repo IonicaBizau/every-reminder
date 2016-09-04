@@ -2,4 +2,4 @@
 
 const everyReminder = require("../lib");
 
-console.log(everyReminder());
+everyReminder(5 * 60 * 1000, "Gym! Make some movements. 😊 😂 .");
