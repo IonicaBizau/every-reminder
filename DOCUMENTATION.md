@@ -2,13 +2,11 @@
 
 You can see below the API reference of this module.
 
-### `everyReminder(a, b)`
+### `everyReminder(interval, message)`
 Displays a reminder notification every interval.
 
 #### Params
-- **Number** `a`: Param descrpition.
-- **Number** `b`: Param descrpition.
 
-#### Return
-- **Number** Return description.
+- **Number** `interval`: The interval in ms.
+- **Number** `message`: The message to show..
 
