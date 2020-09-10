@@ -36,5 +36,8 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/every-reminder/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/every-reminder#readme"
+  "homepage": "https://github.com/IonicaBizau/every-reminder#readme",
+  "dependencies": {
+    "node-notifier": "^8.0.0"
+  }
 }
